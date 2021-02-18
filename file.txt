@@ -1,2 +1,2 @@
 This sentence means nothing.
-My name is Kirill.
+Hello, world!
